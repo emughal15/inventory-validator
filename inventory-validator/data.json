@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Persian Rug A", "price": 1200, "quantity": 5 },
+  { "id": 2, "name": "", "price": 800, "quantity": 3 },
+  { "id": 3, "name": "Modern Rug B", "price": -50, "quantity": 2 },
+  { "id": 4, "name": "Classic Rug C", "price": 500, "quantity": null }
+]
